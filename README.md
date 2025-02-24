@@ -19,7 +19,7 @@
 
 # 💻 Skills
 <div align ="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,mysql,python,bootstrap,git,postgresql,nodejs,html,css,vscode,github,&perline=6" width="400" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,mysql,python,bootstrap,git,postgresql,nodejs,html,css,vscode,github&perline=6" width="400" />
 </div>
 
 
@@ -99,7 +99,9 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="50" />
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Supermercado+One&color=7691C2&lines=Stay+Cozy)](https://git.io/typing-svg)
+
 
 <a href=""><img src="https://img.shields.io/badge/Portfolio-7391c8?styles=for-the-badge&logo=hotjar&logoColor=black" height="25" alt="codepen logo"  /></a>
 
