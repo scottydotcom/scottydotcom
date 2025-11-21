@@ -4,6 +4,9 @@
 <div align="center">
  <a href="https://linkedin.com/in/scottadamr">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20-7391c8?logo=linkedin-white&logoColor=000" height="25" alt="linkedin logo" /></a> 
+  <a href="https://scottydotcom.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7391c8?styles=for-the-badge&logo=hotjar&logoColor=white" height="25" alt="portfolio logo"  />
+  </a>
   <a href="https://www.codewars.com/users/Scotty-Cloud">
     <img src="https://img.shields.io/badge/Codewars-7391c8?styles=for-the-badge&logo=codewars&logoColor=white" height="25" alt="codepen logo"  />
   </a>
@@ -18,10 +21,10 @@
 <br/>
 
 # 💻 Skills
+
 <div align ="center">
   <img src="https://skillicons.dev/icons?i=react,javascript,mysql,python,bootstrap,git,postgresql,nodejs,html,css,vscode,github&perline=6" width="400" />
 </div>
-
 
 <!-- <div style ="display: flex; align-items: flex-start; aslign: center">
   <table align="center">
@@ -46,7 +49,7 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="65" height="65" />
           <br>Bootstrap
       </td>
-      <td align="center" width="96"> 
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
           <br>Git
       </td>
